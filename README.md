@@ -2,9 +2,9 @@ Food-ordering-system
 A simple system made with c++
 
 features:
--login/register
--view and ordering product
--edit and deleting product
--search product
--receipt and history generating
--promotion code
+- Login/register
+- View and ordering product
+- Edit and deleting product
+- Search product
+- Receipt and history generating
+- Promotion code
