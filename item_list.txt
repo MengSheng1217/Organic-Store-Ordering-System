@@ -1,0 +1,74 @@
+Classic Salad
+4.00
+Chicken Salad
+5.00
+Salad Roasted Tomato
+5.00
+Avocado Salad
+6.50
+Rainbow Veggie Salad
+5.50
+Beef Salad
+7.00
+Roasted Tomato Sandwich
+4.00
+Cheesy Vegan Sandwich
+5.00
+Omelette Tomato Sandwich
+5.00
+Smoky Maple Sandwich
+6.50
+Mayonnaise Sandwich
+5.50
+Tuna Sandwich
+7.00
+Organic Trail Mix
+5.00
+Baked Kale Chips
+4.50
+Organic Rice Bar
+3.50
+Dried Banana Chips
+4.00
+Roasted Chickpeas
+5.00
+Dark Choco Almonds
+6.00
+Organic Soy Milk
+4.50
+Cold-Pressed Green Juice
+6.00
+Almond Milk (Unsweetened)
+6.50
+Kombucha (Ginger Lemon)
+7.00
+Organic Coconut Water
+5.50
+Organic Herbal Tea
+4.50
+Organic Brown Rice
+8.00
+Organic Rolled Oats
+7.00
+Organic Quinoa
+9.50
+Raw Almonds (200g)
+10.00
+Chia Seeds (150g)
+6.50
+Dried Goji Berries (100g)
+7.00
+Organic Compost (1kg)
+5.00
+Worm Castings (500g)
+6.00
+Bone Meal Fertilizer (500g)
+7.50
+Seaweed Extract (250ml)
+8.00
+Fish Emulsion (500ml)
+9.00
+Neem Cake Fertilizer (1kg)
+6.50
+
+

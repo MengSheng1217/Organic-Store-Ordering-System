@@ -1,0 +1,48 @@
+
+
+
+
+
+
+
+
+					+================================================================================================================================+
+					|                                                                                                                                |
+					|                                                             Menu                                                               |
+					|                                                                                                                                |
+					+=================================================================================================================================
+					|                                          |                                          |                                          |
+					|                 Salads                   |                Sandwiches                |              Organic Snacks              |
+					|                                          |                                          |                                          |
+					+------------------------------------------+------------------------------------------+------------------------------------------+
+					|1. Classic Salad                  RM 4.00 |7. Roasted Tomato Sandwich        RM 4.00 |13. Organic Trail Mix             RM 5.00 |
+					|                                          |                                          |                                          |
+					|2. Chicken Salad                  RM 5.00 |8. Cheesy Vegan Sandwich          RM 5.00 |14. Baked Kale Chips              RM 4.50 |
+					|                                          |                                          |                                          |
+					|3. Salad Roasted Tomato           RM 5.00 |9. Omelette Tomato Sandwich       RM 5.00 |15. Organic Rice Bar              RM 3.50 |
+					|                                          |                                          |                                          |
+					|4. Avocado Salad                  RM 6.50 |10. Smoky Maple Sandwich          RM 6.50 |16. Dried Banana Chips            RM 4.00 |
+					|                                          |                                          |                                          |
+					|5. Rainbow Veggie Salad           RM 5.50 |11. Mayonnaise Sandwich           RM 5.50 |17. Roasted Chickpeas             RM 5.00 |
+					|                                          |                                          |                                          |
+					|6. Beef Salad                     RM 7.00 |12. Tuna Sandwich                 RM 7.00 |18. Dark Choco Almonds            RM 6.00 |
+					|                                          |                                          |                                          |
+					+------------------------------------------+------------------------------------------+------------------------------------------+
+					|                                          |                                          |                                          |
+					|              Organic Drinks              |             Organic Grocery              |            Organic Fertilizer            |
+					|                                          |                                          |                                          |
+					+------------------------------------------+------------------------------------------+------------------------------------------+
+					|19. Organic Soy Milk              RM 4.50 |25. Organic Brown Rice            RM 8.00 |31. Organic Compost (1kg)         RM 5.00 |
+					|                                          |                                          |                                          |
+					|20. Cold-Pressed Green Juice      RM 6.00 |26. Organic Rolled Oats           RM 7.00 |32. Worm Castings (500g)          RM 6.00 |
+					|                                          |                                          |                                          |
+					|21. Almond Milk (Unsweetened)     RM 6.50 |27. Organic Quinoa                RM 9.50 |33. Bone Meal Fertilizer (500g)   RM 7.50 |
+					|                                          |                                          |                                          |
+					|22. Kombucha (Ginger Lemon)       RM 7.00 |28. Raw Almonds (200g)            RM 10.00|34. Seaweed Extract (250ml)       RM 8.00 |
+					|                                          |                                          |                                          |
+					|23. Organic Coconut Water         RM 5.50 |29. Chia Seeds (150g)             RM 6.50 |35. Fish Emulsion (500ml)         RM 9.00 | 
+					|                                          |                                          |                                          |
+					|24. Organic Herbal Tea            RM 4.50 |30. Dried Goji Berries (100g)     RM 7.00 |36. Neem Cake Fertilizer (1kg)    RM 6.50 |
+					|                                          |                                          |                                          |
+					+------------------------------------------+------------------------------------------+------------------------------------------+
+  
