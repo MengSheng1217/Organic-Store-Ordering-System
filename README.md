@@ -1,7 +1,7 @@
 Food-ordering-system
 A simple system made with c++
 
-features:
+Features:
 - Login/register
 - View and ordering product
 - Edit and deleting product
